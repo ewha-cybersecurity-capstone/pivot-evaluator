@@ -18,7 +18,7 @@ htmlcov/
 data/logs/
 data/outputs/
 vulnerable_llm/data/
-mutation/data/
+mutation/data/0407_mutated.jsonl
 scanner/garak/data/
 scanner/pyrit/data/
 scanner/promptfoo/data/
